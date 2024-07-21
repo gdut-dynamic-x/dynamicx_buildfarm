@@ -3,7 +3,3 @@ repositories:
     type: git
     url: https://github.com/rm-controls/rm_control.git
     version: master
-  rm_controllers:
-    type: git
-    url: https://github.com/rm-controls/rm_controllers.git
-    version: master
