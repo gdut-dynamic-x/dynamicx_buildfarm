@@ -15,3 +15,5 @@ jobs:
           ROS_DISTRO: noetic
           REPOS_FILE: ros1.repos
           SQUASH_HISTORY: true
+          SKIP_PACKAGES: >-
+            rm_referee
