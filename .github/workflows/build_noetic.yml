@@ -17,3 +17,4 @@ jobs:
           SQUASH_HISTORY: true
           SKIP_PACKAGES: >-
             rm_referee
+            mimic_joint_controller
